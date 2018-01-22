@@ -1,0 +1,47 @@
+h2{
+	color: #fff;
+}
+body {
+	font-family: arial;
+	font-size: 14px;
+	background-color: #222;
+}
+
+#kepala {
+	width: 200px;
+	padding: 20px;
+	text-align: left;
+	color: #fff;
+	font-size: 20px;
+	background-color: #339966;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom: 3px solid #336666;
+}
+#badan {
+	width: 200px;
+	padding: 20px;
+	text-align: left;
+	color: #fff;
+	font-size: 20px;
+	background-color: #339966;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom: 3px solid #336666;
+}
+#lain {
+	width: 200px;
+	padding: 20px;
+	text-align: left;
+	color: #fff;
+	font-size: 20px;
+	background-color: #339966;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom: 3px solid #336666;
+	bor
+}
+ul,li{
+	list-style-type: none;
+}
+

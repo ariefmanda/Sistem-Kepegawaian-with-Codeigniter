@@ -1,0 +1,44 @@
+#login{
+      text-align: center;
+      margin: 0 auto;
+      background-color: none;
+      width: 300px; 
+      padding: 10px;
+      font-family: helvetica;
+      border-radius: 3px;
+    }
+    .form-group{
+      margin-top: 15px;
+      margin-bottom: 10px;
+      text-align: left;
+      padding: 0 0 0 45px;
+    }
+    .form-group2{
+      margin-top: 30px;
+      margin-bottom: 10px;
+      text-align: left;
+      padding: 0 0 0 45px;
+    }
+    input[type=text] {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 12px;
+    margin-top: 3px;
+    background-color : #e6e6e6;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    }
+    input[type=password] {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 7px;
+    margin-top: 3px;
+    background-color : #e6e6e6;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    }
+        input[type=checkbox] {
+    text-emphasis: 0.7;
+    }
